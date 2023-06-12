@@ -1,0 +1,18 @@
+# Build Options
+#   change yes to no to disable
+#
+
+OLED_ENABLE     = yes
+LTO_ENABLE      = yes
+
+BOOTMAGIC_ENABLE = no
+SLEEP_LED_ENABLE = no
+BACKLIGHT_ENABLE = no
+RGBLIGHT_ENABLE = no
+AUDIO_ENABLE = no
+RGB_MATRIX_ENABLE = no
+
+LTO_ENABLE = yes
+
+RGBLIGHT_SUPPORTED = no
+RGB_MATRIX_SUPPORTED = no
